@@ -50,6 +50,5 @@ Así que espero que pronto se me vayan las dudas recibiendo una aclaración de c
 5\. Este es el 5º commit he buscado comandos  diferentes (solo encontré 2) y puesto los que hemos visto en clase \\Ahora procedo a entregarlo\\
 
 ```
-Esta es el 6º commit , se ha corregido
-un = que me sobraba
+Esta es el 8º commit
 ```
