@@ -18,7 +18,7 @@ Los métodos void (no llego a saber cómo usarlos o que pensar para llegar a usa
 Así que espero que pronto se me vayan las dudas recibiendo una aclaración de conceptos\_ ```
 - - -
 3- ***Los ejercicios de prácticas 25 el de los ordenadores y 20 el de la baraja, en el de la baraja para aclárame los pasos sencillos por decirlo así crear un identificador carta , la acción de barajar que depende de carta y el 25 para ampliar el concepto  y ver las herencias. Estas con las dos practicas que más me han ayudado, con la de la baraja me quedé un par de días la de ordenadores me salió al final (no me salía la opción de mezclar), pero seguiré probando con otros ejercicios para las herencias con más objetos***
-1. 20 BARAJA : ==Completado== :
+1. 20 BARAJA : ==Completado== 
 1. 25 Ordenador : ~~Completado~~ ==Incompleto==
    [^1]:Los sobrayados
 ***
